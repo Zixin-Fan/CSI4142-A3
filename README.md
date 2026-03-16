@@ -1,3 +1,3 @@
 # CSI4142-A3
-# Method: 
+# Method
 Linear Regression & Classification
